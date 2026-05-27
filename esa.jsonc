@@ -1,0 +1,9 @@
+{
+  "name": "reversi",
+  "installCommand": "",
+  "buildCommand": "",
+  "assets": {
+    "directory": ".",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
